@@ -1,0 +1,333 @@
+Resumo Profissional 
+Profissional de infraestrutura com atuação em ambientes críticos de banco, especializado em Solaris, VMware, armazenamento corporativo, SAN, alta disponibilidade e migrações de datacenter. Experiência em PowerMax, Huawei OceanStor Dorado, Brocade, Veritas Volume Manager, Oracle LDOMs, OpenShift Virtualization e operações de produção de missão crítica. 
+Experiência e Responsabilidades 
+•	Administração de ambientes VMware vSphere, ESXi e vCenter. 
+•	Gestão de storages Dell EMC PowerMax e Huawei OceanStor Dorado. 
+•	Migração de ambientes Sybase entre plataformas de armazenamento. 
+•	Administração de Oracle Solaris, LDOMs e Veritas Volume Manager. 
+•	Configuração e troubleshooting de SAN Brocade (zoning, aliases e conectividade). 
+•	Planejamento de capacidade, análise de desempenho, IOPS, throughput e latência. 
+•	Implementação de replicação, disaster recovery e continuidade de negócios. 
+•	Integração com fornecedores como Dell, VMware/Broadcom, Huawei e Pure Storage. 
+•	Automação com scripts Shell e Python para auditoria e inventário. 
+Tecnologias 
+Solaris, Oracle T8/T4, LDOM, Veritas Volume Manager, Sybase ASE, VMware, OpenShift, PowerMax, OceanStor Dorado, Brocade SAN, Pure Storage, Linux, Windows Server, DNS, Storage Replication, DR, Python, Shell Script. 
+
+Responsabilidades Principais 
+Responsável pela sustentação de ambientes críticos do Banco BMG. Atua diretamente em virtualização, armazenamento, sistemas Unix/Solaris, SAN, recuperação de desastres e projetos de migração. Participa de reuniões técnicas com fornecedores e conduz análises detalhadas de capacidade e desempenho para suportar decisões de arquitetura. 
+Conhecimentos Técnicos Detalhados 
+•	VMware vSphere, ESXi, vCenter, HA, vMotion e Storage vMotion. 
+•	OpenShift Virtualization e estudos de migração VMware para OpenShift. 
+•	Oracle Solaris, LDOMs, Multipath, devfsadm e administração de sistemas Unix. 
+•	Veritas Volume Manager: Disk Groups, volumes, migrações e troubleshooting. 
+•	SAN Brocade: zoning, aliases, WWN, troubleshooting de fabrics. 
+•	Huawei OceanStor Dorado 6000: LUNs, Host Groups, Port Groups, Protection Groups e replicação remota. 
+•	Dell EMC PowerMax 2000 e análises comparativas pré e pós migração. 
+•	Sybase ASE em ambientes de alta disponibilidade. 
+•	Análise de performance utilizando IOPS, throughput, latência e filas. 
+•	Automação e geração de relatórios com Python, Shell Script e Excel. 
+Projetos Relevantes 
+Migração de centenas de LUNs do ambiente Sybase do PowerMax para o OceanStor Dorado, incluindo mapeamento Solaris, configuração SAN, replicação, validação de desempenho e documentação técnica. 
+
+## Resumo profissional
+Profissional com atuacao pratica em infraestrutura de storage, sistemas Unix/Solaris e ambientes de banco de dados Sybase, com forte foco em migracao, mapeamento e analise operacional de ambientes criticos. Demonstra experiencia aplicada em planejamento e execucao de migracoes entre storages Dell EMC PowerMax e Huawei OceanStor Dorado, organizacao de inventario de discos, validacao fim a fim de LUNs, grupos de protecao, replicacao e correlacao entre camada de storage e camada Solaris/LDOM.
+
+Tambem apresenta atuacao consistente em automacao tecnica com Python e PowerShell para consolidacao de planilhas, geracao de relatorios executivos, cruzamento de inventarios e analise de performance de array, controladoras, portas FC, links de replicacao e grupos de LUNs. Atua com linguagem tecnica, mas direcionada a entrega operacional e gerencial.
+
+## Competencias principais
+- Huawei OceanStor / Dorado 6000
+- Dell EMC PowerMax 2000
+- Sybase em ambiente corporativo
+- Storage provisioning, LUN groups, protection groups e replication groups
+- Analise de performance de storage: IOPS, throughput, latencia, portas, controladoras e array
+- Replicacao de storage e leitura operacional de links de replicacao
+- Solaris, LDOM, control domain e device mapping
+- Veritas Volume Manager: vxdisk, vxdg, vxprint
+- Automacao com Python
+- Automacao e apoio operacional com PowerShell
+- Analise e consolidacao de dados em Excel
+- openpyxl e python-docx para geracao de documentacao tecnica
+- Elaboracao de relatorios tecnicos e executivos
+- Capacidade de traduzir dados tecnicos em conclusoes compreensiveis para gestao
+
+## Experiencia tecnica observavel no workspace
+### Migracao e mapeamento de storage para ambientes Sybase
+- Estruturacao e validacao de planilhas de discos por ambiente, incluindo BMG01, BMG01DR, BMG95DEV, BMG95HML e BMG96UAT.
+- Geracao de mapeamento fim a fim entre LUN, WWN, host LUN ID, CTD, disk Solaris, DG Solaris, LUN group e replication CG.
+- Cruzamento entre logs de storage, CLI de criacao de LUNs, saidas Solaris e dados operacionais para fechar inventario coerente.
+
+### Analise de desempenho e capacidade
+- Criacao de estudos detalhados de performance para ambiente BMG01 com foco em:
+  - status de migracao
+  - consumo por LUN Group
+  - IOPS por base
+  - throughput por grupo
+  - latencia por grupo
+  - saude do array e das controladoras
+  - comportamento de portas FC
+  - atividade de replicacao
+- Elaboracao de leitura tecnica comparando dados observados com faixas de mercado para workload OLTP/Sybase em all-flash.
+
+### Automacao e documentacao
+- Criacao de scripts Python para gerar:
+  - relatorios Word tecnicos
+  - relatorios Word executivos
+  - consolidacoes Excel com dashboards
+  - planilhas de evidencias e rastreabilidade
+  - analises automatizadas de performance com fonte e linha de origem
+- Padronizacao de saidas para apresentacao gerencial, com rastreabilidade e linguagem tecnica explicada em portugues claro.
+
+## Ferramentas e tecnologias
+- Python 3.x
+- PowerShell
+- openpyxl
+- python-docx
+- CSV / Excel / Markdown
+- Huawei OceanStor DeviceManager (via export de relatorios)
+- CLI e artefatos operacionais de storage Huawei
+- Solaris / LDOM
+- Veritas VxVM
+- PuTTY / acesso operacional remoto
+
+## Diferenciais observados
+- Boa capacidade de correlacionar dados de multiplas camadas: storage, host, virtualizacao LDOM e banco.
+- Forte orientacao a evidencia e rastreabilidade de origem.
+- Boa traducao de dados tecnicos para material de apresentacao e decisao.
+- Perfil pragmático para operacao, troubleshooting e documentacao estruturada.
+
+## Formacao e certificacoes
+Nao foi possivel identificar com seguranca a formacao academica ou certificacoes a partir das fontes disponiveis nesta sessao. Preencher manualmente.
+
+## Idiomas
+Nao foi possivel confirmar formalmente idiomas alem do portugues. Preencher manualmente se desejar.
+
+## Fontes utilizadas para este rascunho
+- Workspace tecnico em c:/Users/paulo.rodrigues/OneDrive - BANCO BMG S A/Documentos/Git/Sybase
+- Scripts e relatorios em Sybase/BMG01
+- Estudos de migracao e performance gerados nesta sessao
+- Estrutura de automacao e mapeamento observada nos arquivos do repositorio
+
+## Limites desta apuracao
+Este curriculo foi montado apenas com base em evidencias tecnicas observaveis no workspace e no historico desta sessao. Nao houve acesso a Teams, Outlook, e-mail corporativo, LinkedIn, RH ou documentos pessoais externos. Recomenda-se revisao final manual antes de uso oficial.
+
+Este texto consolida, em linguagem clara, tudo o que foi possivel inferir com seguranca sobre as atividades, conhecimentos e tipo de entrega tecnica de Paulo Rodrigues a partir do workspace e das interacoes tecnicas observadas nesta sessao.
+
+## O que foi possivel concluir com boa confianca
+Paulo Rodrigues atua em um contexto fortemente ligado a infraestrutura de banco de dados Sybase, storage corporativo e sistemas Solaris. O tipo de trabalho observado nao e de uso superficial de ferramenta; trata-se de atividade operacional e analitica de nivel tecnico, envolvendo cruzamento de inventario, interpretacao de logs, validacao de mapeamentos, montagem de documentacao formal e leitura de performance de ambiente produtivo.
+
+Em termos práticos, o que aparece no workspace e no historico aponta para uma pessoa que:
+- entende a relacao entre storage, host Solaris/LDOM e banco de dados Sybase;
+- trabalha com mapeamento detalhado de discos, LUNs e grupos de protecao;
+- faz validacao operacional de migracoes entre arrays distintos;
+- traduz dados de performance em explicacao tecnica e executiva;
+- utiliza automacao para ganhar velocidade e reduzir erro manual.
+
+## Principais atividades identificadas
+### 1. Migracao e organizacao de ambientes de storage
+Foi observada atuacao direta em ambientes como BMG01, BMG01DR, BMG95DEV, BMG95HML e BMG96UAT, com atividades ligadas a:
+- criacao e organizacao de LUN groups;
+- criacao e associacao de LUNs;
+- organizacao de protection groups;
+- definicao ou validacao de replication groups;
+- conferencia de host LUN ID, WWN, CTD, device LDOM, DG Solaris e discos apresentados ao host;
+- apoio a migracao entre Dell EMC PowerMax e Huawei OceanStor Dorado.
+
+Isso indica conhecimento operacional de storage em producao, com responsabilidade sobre coerencia de mapeamento e consistencia entre o que existe no array e o que aparece nos servidores.
+
+### 2. Analise de performance de storage
+Tambem foi observada atividade detalhada de leitura de performance em relatórios do OceanStor, incluindo:
+- IOPS por LUN Group;
+- throughput por LUN Group;
+- latencia media, p95 e pico;
+- saude do array como um todo;
+- distribuicao de carga entre controladoras;
+- uso de portas Front-End FC;
+- trafego de replicacao em links IP e remote device.
+
+Isso mostra capacidade de diagnosticar se um problema está no grupo de discos, no array, na controladora, na porta ou no caminho de replicacao.
+
+### 3. Correlacao entre storage e Solaris/LDOM
+Os artefatos do workspace mostram uso recorrente de:
+- ldm bindings;
+- control domain;
+- vdisk;
+- CTD;
+- vxdisk;
+- vxdg;
+- vxprint.
+
+Na prática, isso indica conhecimento de como um disco sai do storage, atravessa a camada de virtualizacao/LDOM, chega ao Solaris e é organizado no Veritas Volume Manager.
+
+Esse tipo de conhecimento e importante porque evita analise isolada. A pessoa consegue enxergar o caminho completo do dado, desde a LUN no storage até o disk group usado pelo banco.
+
+### 4. Automacao de documentacao e analise
+Foi observada criacao de diversos scripts em Python voltados a:
+- preencher planilhas automaticamente;
+- consolidar workbooks Excel;
+- montar dashboards executivos;
+- gerar relatorios Word em formato tecnico;
+- criar arquivos de rastreabilidade com fonte e linha de origem;
+- transformar export de performance em leitura operacional.
+
+Isso demonstra um perfil que nao depende apenas de atividade manual repetitiva. Existe preocupacao em padronizar, acelerar e deixar evidencias reprodutiveis.
+
+## Conhecimentos tecnicos inferidos
+### Storage e infraestrutura
+- Huawei OceanStor / Dorado 6000
+- Dell EMC PowerMax 2000
+- LUNs, LUN Groups, Protection Groups, Replication CGs
+- Analise de portas Front-End FC
+- Analise de array e controladoras
+- Interpretação de relatórios de performance exportados do storage
+- Replicacao de dados entre storages
+
+### Sistemas e virtualizacao
+- Solaris
+- LDOM
+- Control Domain
+- Device mapping entre storage e host
+- Operacao via acesso remoto e coleta tecnica
+
+### Camada de dados e volume manager
+- Sybase
+- Veritas Volume Manager
+- vxdisk
+- vxdg
+- vxprint
+- Disk groups e organizacao de dados/logs
+
+### Automacao e ferramental
+- Python
+- PowerShell
+- openpyxl
+- python-docx
+- CSV / Excel / Markdown
+- Geração de relatorios com foco tecnico e gerencial
+
+## Tipo de problema que Paulo parece saber resolver
+Com base no material disponivel, Paulo parece saber atuar em problemas como:
+- mapeamento inconsistente entre storage e host;
+- preenchimento tecnico de inventario de discos;
+- validacao de migracao de bancos entre storages;
+- leitura de capacidade e consumo por base;
+- identificacao de grupos com maior IOPS, latencia ou throughput;
+- verificacao de gargalo em portas ou controladoras;
+- confirmacao de atividade de replicacao e seu caminho operacional;
+- montagem de material executivo a partir de dados tecnicos brutos.
+
+## Como esse perfil pode ser descrito profissionalmente
+Sem inventar cargo formal, a melhor descricao observavel e algo como:
+- profissional tecnico de infraestrutura / storage com forte interface com banco de dados;
+- analista ou especialista com foco em storage, Solaris e ambientes Sybase;
+- perfil de migracao, mapeamento e performance analysis em ambiente critico.
+
+## O que este perfil sabe fazer bem, em linguagem simples
+Em português claro: o que se observa é uma pessoa que entende onde o disco nasce, como ele é entregue ao servidor, como o sistema operacional enxerga esse disco, como o banco usa esse recurso e como provar com números se o ambiente está bom ou ruim.
+
+Nao é apenas alguem que abre uma planilha. E alguem que:
+- cruza fonte tecnica diferente;
+- descobre inconsistencias;
+- monta explicacao com base em evidencia;
+- prepara material para decisao;
+- automatiza para evitar retrabalho.
+
+## Onde esta a evidência disso
+As evidencias principais vieram de:
+- scripts de análise e geração de relatórios em Sybase/BMG01;
+- arquivos de mapeamento e criação de LUNs em ambientes Huawei;
+- estudos sobre migracao PowerMax -> Dorado;
+- consolidacoes Excel e Word feitas nesta sessao;
+- arquivos envolvendo Solaris, LDOM e VxVM;
+- relatórios de performance do OceanStor para array, controladoras, portas e replicacao.
+
+## O que eu nao consegui confirmar
+Mesmo consultando o máximo que era possivel dentro desta sessao, nao foi possivel confirmar com seguranca:
+- cargo oficial;
+- tempo total de experiencia;
+- formacao academica;
+- certificacoes;
+- e-mail pessoal ou corporativo confirmado;
+- historico completo em Teams, Outlook, e-mail ou RH.
+
+## Limites desta apuracao
+Este documento foi feito com base no que era acessivel tecnicamente nesta sessao. Nao houve ferramenta com acesso a Teams, Outlook, caixa de e-mail, agenda corporativa ou perfis externos como LinkedIn. Portanto, o texto deve ser lido como um perfil tecnico inferido com boa base observacional, mas ainda sujeito a refinamento manual por voce.
+
+## Sugestao de uso
+Este documento pode servir para:
+- detalhar atribuicoes no curriculo;
+- montar perfil de LinkedIn;
+- escrever apresentacao profissional;
+- apoiar avaliacao de conhecimentos tecnicos;
+- transformar atividade tecnica dispersa em uma narrativa profissional coerente.
+
+O que aparece como os grandes temas da sua atuação
+1. Migração de Datacenter BH → SP
+Esse é um dos projetos mais recorrentes e relevantes que encontrei.
+Você participou diretamente da desativação dos datacenters de Belo Horizonte, movendo serviços para São Paulo (Cirion/Ascenty), incluindo:
+•	VMware
+•	SQL Server
+•	Active Directory
+•	DNS
+•	SAN
+•	Storages
+•	SPB e sistemas críticos
+O próprio material que você escreveu descreve sua atuação como responsável técnico na execução das migrações, coordenação de fornecedores, moving físico e lógico e validação pós-migração
+
+
+2. VMware / Virtualização
+Esse tema aparece praticamente o tempo todo.
+Você aparece como referência interna em:
+•	VMware vSphere
+•	vCenter
+•	vMotion
+•	Storage vMotion
+•	HA
+•	DR
+•	SRM
+•	Aria Operations
+•	Aria Lifecycle
+•	Aria Automation
+Inclusive há comunicações internas explicando arquitetura dos vCenters do banco e processos de migração de workloads.
+
+
+3. VxRail
+Achei bastante coisa relacionada.
+Há evidências de:
+•	Administração dos clusters Dell VxRail. 
+•	Relatórios de utilização do ambiente VxRail_BH. 
+•	Planejamento de escoamento/migração de workloads entre clusters VxRail.  
+•	Processo de redeploy do VxRail durante o moving. 
+•	Documento 
+O tema "Upgrade/Redeploy de VxRail" aparece explicitamente em e-mails com a Dell durante as janelas de moving.
+
+
+4. Migração VMware → Huawei DCS
+Esse tema aparece muito forte durante 2025/2026.
+Encontrei:
+•	Discussões técnicas sobre migração para DCS. 
+•	Avaliação de compatibilidade de VMs. 
+•	Levantamento de riscos envolvendo mais de 100 VMs para migração
+•	Estudos de throughput e desempenho de migração. 
+Em um dos e-mails você apresenta uma análise extensa mostrando que certas migrações estavam atingindo apenas ~15 MB/s em alguns cenários, o que inviabilizaria uma migração completa dentro de prazo aceitável.
+
+
+6. Storage / Huawei / Solaris / Sybase
+Aqui aparece bastante atividade recente.
+Principalmente:
+•	OceanStor Dorado. 
+•	Migração Solaris. 
+•	Veritas Volume Manager. 
+•	Estratégias de replicação de disk groups. 
+•	Projeto atual de migração Sybase PowerMax → Dorado.
+
+Pelos dados localizados, os pilares que mais se repetem são:
+1.	Migração do Datacenter BH → SP. 
+2.	Administração dos ambientes VMware. 
+3.	Clusters Dell VxRail e HPE Simplivity. 
+4.	Projetos de continuidade de negócio e DR. 
+5.	Migração VMware → Huawei DCS. 
+6.	OpenShift e infraestrutura cloud-native. 
+7.	Storage corporativo (PowerMax, Pure, Huawei, SAN). 
+8.	Solaris, Sybase e Veritas em ambientes críticos
+E sinceramente, olhando o conjunto todo, o tema que mais aparece historicamente não é nem OpenShift nem Sybase. É virtualização VMware + migração de datacenter + VxRail. Isso domina os registros encontrados
+
